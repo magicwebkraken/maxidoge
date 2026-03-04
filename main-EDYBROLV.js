@@ -55928,24 +55928,24 @@ var WP = (() => {
           {
             img: "assets/images/svg-icons/social-icons/telegram-black.svg",
             alt: "Telegram",
-            link: "https://t.me/kingmaxidoge",
+            link: "https://t.me/MaxidogeEthCoin",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter-black.svg",
             alt: "Twitter",
-            link: "https://x.com/kingMaxidoge",
+            link: "https://x.com/MaxidogeEthCoin",
           },
         ]),
         (this.socialMobile = [
           {
             img: "assets/images/svg-icons/social-icons/telegram.svg",
             alt: "Telegram",
-            link: "https://t.me/kingmaxidoge",
+            link: "https://t.me/MaxidogeEthCoin",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter.svg",
             alt: "Twitter",
-            link: "https://x.com/kingMaxidoge",
+            link: "https://x.com/MaxidogeEthCoin",
           },
         ]),
         this.subscriptions.push(
@@ -56439,7 +56439,7 @@ var qP = (() => {
             "mb-4",
             "gap-3",
           ],
-          ["href", "https://t.me/kingmaxidoge", "target", "_blank"],
+          ["href", "https://t.me/MaxidogeEthCoin", "target", "_blank"],
           [
             "src",
             "/assets/images/svg-icons/social-icons/telegram.svg",
@@ -56450,7 +56450,7 @@ var qP = (() => {
             1,
             "icon",
           ],
-          ["href", "https://x.com/kingMaxidoge", "target", "_blank"],
+          ["href", "https://x.com/MaxidogeEthCoin", "target", "_blank"],
           [
             "src",
             "/assets/images/svg-icons/social-icons/twitter.svg",
